@@ -1,0 +1,13 @@
+*.o
+uint_le_to_uint_ascii
+uint_be_to_uint_ascii
+double_bin_to_double_ascii
+double_ascii_to_double_bin
+uint_ascii_to_uint_ascii
+uint_ascii_to_uint_le
+uint_ascii_to_uint_be
+double_ascii_to_double_ascii
+uint_be_to_uint_le
+uint_le_to_uint_be
+avg_doubles
+uint_le_to_double_bin
