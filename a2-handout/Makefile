@@ -12,7 +12,8 @@ PROGRAMS= \
 	double_bin_to_double_ascii \
 	double_ascii_to_double_ascii \
 	double_ascii_to_double_bin \
-	uint_le_to_double_bin
+	uint_le_to_double_bin \
+	avg_doubles
 
 
 all: $(PROGRAMS)

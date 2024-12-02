@@ -1,0 +1,572 @@
+[2024-12-02 15:58:24] [numlib.c:121 in read_uint_le] INFO: Storing in out (le): 34333231
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 20:47:26] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 20:47:26] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 20:47:26] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 20:47:26] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 20:47:26] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 20:47:26] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:47:26] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:47:26] [numlib.c:217 in read_double_ascii] INFO: End of file reached
+[2024-12-02 20:47:26] [numlib.c:174 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:174 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:174 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:174 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:174 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:174 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 20:47:26] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:47:26] [numlib.c:171 in read_double_bin] ERROR: fread failed
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 20:48:09] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 20:48:09] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 20:48:09] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 20:48:09] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 20:48:09] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 20:48:09] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:48:09] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:48:09] [numlib.c:217 in read_double_ascii] INFO: End of file reached
+[2024-12-02 20:48:09] [numlib.c:174 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:174 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:174 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:174 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:174 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:174 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 20:48:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:48:09] [numlib.c:171 in read_double_bin] ERROR: fread failed
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 20:51:18] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 20:51:18] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 20:51:18] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 20:51:18] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 20:51:18] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 20:51:18] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:51:18] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:51:18] [numlib.c:217 in read_double_ascii] INFO: End of file reached
+[2024-12-02 20:51:18] [numlib.c:174 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:174 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:174 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:174 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:174 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:174 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 20:51:18] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:51:18] [numlib.c:171 in read_double_bin] ERROR: fread failed
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 20:52:06] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 20:52:06] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 20:52:06] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 20:52:06] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 20:52:06] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:179 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 20:52:06] [numlib.c:184 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:52:06] [numlib.c:205 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:52:06] [numlib.c:217 in read_double_ascii] INFO: End of file reached'
+-----
+
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 20:54:37] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 20:54:37] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 20:54:37] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 20:54:37] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 20:54:37] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 20:54:37] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:54:37] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:54:37] [numlib.c:218 in read_double_ascii] INFO: End of file reached
+[2024-12-02 20:54:37] [numlib.c:175 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:175 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:175 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:175 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:175 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:175 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 20:54:37] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:54:37] [numlib.c:172 in read_double_bin] ERROR: fread failed
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 20:59:54] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 20:59:54] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 20:59:54] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 20:59:54] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 20:59:54] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 20:59:54] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 20:59:54] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 20:59:54] [numlib.c:218 in read_double_ascii] INFO: End of file reached
+[2024-12-02 20:59:54] [numlib.c:175 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:175 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:175 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:175 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:175 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:175 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 20:59:54] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 20:59:54] [numlib.c:172 in read_double_bin] ERROR: fread failed
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:00:04] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:00:04] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:00:04] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:00:04] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:00:04] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:180 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:00:04] [numlib.c:185 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:00:04] [numlib.c:206 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:00:04] [numlib.c:218 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:00:04] [numlib.c:175 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:175 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:175 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:175 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:175 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:175 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:00:04] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:00:04] [numlib.c:172 in read_double_bin] ERROR: fread failed
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:01:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:01:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:01:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:01:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:01:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:01:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:01:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:01:02] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:01:02] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:01:02] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary[2024-12-02 21:01:02] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:01:02] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:01:02] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:01:02] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:01:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:01:02] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:02:24] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:02:24] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:02:24] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:02:24] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:02:24] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:02:24] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:02:24] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:02:24] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:02:24] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:02:24] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:02:24] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:03:46] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:03:46] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:03:46] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:03:46] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:03:46] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:03:46] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:03:46] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:03:46] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:03:46] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:03:46] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:03:46] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:05:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:05:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:05:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:05:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:05:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:05:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:02] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:05:02] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:05:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:02] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:05:56] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:05:56] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:05:56] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:05:56] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:05:56] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:05:56] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:05:56] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:05:56] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:05:56] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:05:56] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:05:56] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:06:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:06:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:06:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:06:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:06:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:06:02] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:06:02] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:06:02] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:06:02] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:06:02] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:06:02] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:07:16] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:07:16] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:07:16] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:07:16] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:07:16] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:07:16] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:16] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:16] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:07:16] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:07:16] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:16] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:07:50] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:07:50] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:07:50] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:07:50] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:07:50] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:07:50] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:07:50] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:07:50] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:07:50] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:07:50] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:07:50] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:08:00] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:08:00] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:08:00] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:08:00] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:08:00] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:08:00] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:00] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:00] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:08:00] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:08:00] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:00] [numlib.c:177 in read_double_bin] INFO: End of file reached
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 1.200000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 2.300000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 3.400000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 4.500000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 5.600000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 6.700000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:190 in write_double_bin] INFO: Writing double binary: 100.493000
+[2024-12-02 21:08:09] [numlib.c:195 in write_double_bin] INFO: Successfully wrote double binary!
+[2024-12-02 21:08:09] [numlib.c:216 in read_double_ascii] INFO: Reading double ascii
+[2024-12-02 21:08:09] [numlib.c:228 in read_double_ascii] INFO: End of file reached
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '1.200000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '2.300000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '3.400000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '4.500000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '5.600000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '6.700000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:172 in read_double_bin] INFO: The value '100.493000' was read into `out`!
+[2024-12-02 21:08:09] [numlib.c:169 in read_double_bin] INFO: Start reading double binary
+[2024-12-02 21:08:09] [numlib.c:177 in read_double_bin] INFO: End of file reached
+J
